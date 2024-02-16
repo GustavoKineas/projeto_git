@@ -18,3 +18,5 @@ Além disso, aqui estão os comandos mencionados para criar, mudar e mesclar bra
 git branch nome-da-branch: Cria uma nova branch.
 git checkout nome-da-branch: Muda para a nova branch.
 git merge nome-da-outra-branch: Mescla as alterações de uma branch em outra.
+
+Teste
